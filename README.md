@@ -33,8 +33,11 @@ GRADLE_HOME：D:\Mine\gradle-6.0
 Path：C:\windows\system32;%JAVA_HOME%\bin;%ANDROID_HOME%\tools;%ANDROID_HOME%\platform-tools;%GRADLE_HOME%\bin
 ```
 
-## cordova插件安装
+## cordova插件
 > 插件安装命令：cordova plugin add 插件名
+> 插件更新命令：cordova plugin update 插件名
+> 插件删除命令：cordova plugin remove 插件名
+> 安装指定版本插件：cordova plugin add 插件名@版本号
 
 
 ## 注意事项
